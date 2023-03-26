@@ -1,0 +1,14 @@
+# Ignore Python compiled files
+*.pyc
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore virtual environment files
+venv/
+
+# Ignore output video file
+output.avi
